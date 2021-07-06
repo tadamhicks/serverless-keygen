@@ -31,6 +31,9 @@ provider:
             - Fn::GetAtt: [ UsersTable, Arn ]
   environment:
     CLIENT_KEYS_TABLE: ${self:custom.tableName}
+    HONEYCOMB_API_KEY: xxxxxxxxxxxxxxxxxxxxxxxx
+    HONEYCOMB_DATASET: frappe
+    SERVICE_NAME: frappe-svc
 
 functions:
   api:

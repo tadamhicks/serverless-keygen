@@ -16,3 +16,4 @@ cffi==1.13.2
 Click==7.0
 cryptography==2.8
 docutils==0.15.2
+honeycomb-beeline
