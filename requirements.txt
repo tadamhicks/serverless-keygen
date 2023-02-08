@@ -14,6 +14,6 @@ boto3==1.11.9
 botocore==1.14.9
 cffi==1.13.2
 Click==7.0
-cryptography==2.8
+cryptography==39.0.1
 docutils==0.15.2
 honeycomb-beeline
