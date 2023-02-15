@@ -1,6 +1,6 @@
 Flask==1.1.4
 dataclasses
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 itsdangerous==1.1.0
 Jinja2==2.11.1
 jmespath==0.9.4
