@@ -1,4 +1,4 @@
-Flask==1.1.4
+Flask==2.2.5
 dataclasses
 Werkzeug==1.0.1
 itsdangerous==1.1.0
