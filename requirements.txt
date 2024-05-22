@@ -17,3 +17,4 @@ Click==7.0
 cryptography==2.8
 docutils==0.15.2
 honeycomb-beeline
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
